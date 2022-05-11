@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\bin\Debug\net5.0\EmailProject.exe
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\bin\Debug\net5.0\EmailProject.deps.json
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\bin\Debug\net5.0\EmailProject.runtimeconfig.json
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\bin\Debug\net5.0\EmailProject.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\bin\Debug\net5.0\EmailProject.dll
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\bin\Debug\net5.0\ref\EmailProject.dll
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\bin\Debug\net5.0\EmailProject.pdb
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\obj\Debug\net5.0\EmailProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\obj\Debug\net5.0\EmailProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\obj\Debug\net5.0\EmailProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\obj\Debug\net5.0\EmailProject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\obj\Debug\net5.0\EmailProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\obj\Debug\net5.0\EmailProject.dll
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\obj\Debug\net5.0\ref\EmailProject.dll
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\obj\Debug\net5.0\EmailProject.pdb
+C:\Users\Administrator\Desktop\Assiment 2\EmailProject\obj\Debug\net5.0\EmailProject.genruntimeconfig.cache
